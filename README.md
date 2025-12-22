@@ -40,7 +40,7 @@ I build **gameplay mechanics**, **AI behaviors**, and **real-time systems** usin
 | 🎮 Project | Tech | Description |
 |-----------|------|-------------|
 | **[Light Awareness AI Demo](https://github.com/Minki-Cho/LightAwarenessDemo)** | C++, Unreal Engine | Stealth AI prototype where enemies dynamically detect and react to player visibility based on real-time light intensity. Includes custom perception logic, debug visualization, and scalable AI decision flow. |
-| **[Unity Game Project (CS 388)](https://github.com/Minki-Cho/Unity-Game_388)** | Unity, C# | 3D gameplay prototype focusing on player movement, interaction systems, and camera behavior. Designed with modular scripts and iterative gameplay tuning. |
+| **[Unity Game Project (CS 388)](https://github.com/Minki-Cho/Unity-Game_388)** | Unity, C# | Cross-platform 3D gameplay prototype featuring modular interaction systems, advanced platform mechanics, and performance optimizations for Nintendo Switch. |
 
 ---
 
