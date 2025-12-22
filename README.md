@@ -17,7 +17,13 @@ I build **gameplay mechanics**, **AI behaviors**, and **real-time systems** usin
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Gameplay AI](https://img.shields.io/badge/Gameplay%20AI-8A2BE2?style=flat-square)
 ![State Machines](https://img.shields.io/badge/State%20Machines-4682B4?style=flat-square)
+
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square)
+![SDL](https://img.shields.io/badge/SDL-000000?style=flat-square)
+![GLEW](https://img.shields.io/badge/GLEW-3A75C4?style=flat-square)
+![GLM](https://img.shields.io/badge/GLM-4B8BBE?style=flat-square)
+
 ![Niagara VFX](https://img.shields.io/badge/Niagara%20VFX-76B900?style=flat-square)
 ![Blueprints](https://img.shields.io/badge/Blueprints-1E90FF?style=flat-square)
 
@@ -32,6 +38,7 @@ I build **gameplay mechanics**, **AI behaviors**, and **real-time systems** usin
 
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=white)
 ![raylib](https://img.shields.io/badge/raylib-000000?style=flat-square)
+
 
 ---
 
