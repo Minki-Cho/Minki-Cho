@@ -20,7 +20,18 @@ I build **gameplay mechanics**, **AI behaviors**, and **real-time systems** usin
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Niagara VFX](https://img.shields.io/badge/Niagara%20VFX-76B900?style=flat-square)
 ![Blueprints](https://img.shields.io/badge/Blueprints-1E90FF?style=flat-square)
+
+![Perforce](https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=white)
+![raylib](https://img.shields.io/badge/raylib-000000?style=flat-square)
 
 ---
 
