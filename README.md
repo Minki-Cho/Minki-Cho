@@ -47,16 +47,24 @@ I build **gameplay mechanics**, **AI behaviors**, and **real-time systems** usin
 ## 🧠 What I Focus On
 
 - 🎯 **Gameplay Architecture**  
-  Clean state machines, modular systems, and readable gameplay code
+  Designed and implemented gameplay systems across **multiple Unreal Engine and Unity projects**,  
+  focusing on **clean state machines**, modular components, and readable, maintainable gameplay code.  
+  Experienced in structuring gameplay logic for scalability and team collaboration.
 
 - 🤖 **AI Behavior & Perception**  
-  Light-based awareness, decision logic, and debugging tools
+  Built AI systems using **Behavior Trees** and **A\* pathfinding**, with hands-on experience in  
+  **terrain analysis** and **light-based awareness** for stealth gameplay.  
+  Developed a dedicated **Light Awareness AI Demo** featuring custom perception logic and real-time debugging tools.
 
 - ⚙️ **Engine-Level Thinking**  
-  Performance-conscious design and scalable systems
+  Experienced with low-level systems through **custom engine development**,  
+  and currently planning a **personal game engine** leveraging **multithreading** and **DirectX**.  
+  Focused on performance, system separation, and understanding how gameplay code interacts with engine internals.
 
 - 🧪 **Prototyping & Iteration**  
-  Turning mechanics into playable, testable features quickly
+  Rapidly prototype mechanics in Unreal, Unity, and custom frameworks,  
+  iterating through testing, debugging, and refinement to turn ideas into **playable, testable features**.  
+  Comfortable moving between engine-level experimentation and high-level gameplay design.
 
 ---
 
@@ -70,10 +78,9 @@ I build **gameplay mechanics**, **AI behaviors**, and **real-time systems** usin
 
 ## 🌐 Where to Find Me
 
-- 🧑‍💻 GitHub: https://github.com/Minki-Cho  
-- 💼 LinkedIn: https://www.linkedin.com/in/minki-cho-helloworld/
+- 🌍 **Portfolio**: https://minki-portfolio.info  
+- 🧑‍💻 **GitHub**: https://github.com/Minki-Cho  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/minki-cho-helloworld/
 
 ---
 
-> *This profile highlights selected gameplay & AI-focused projects.  
-More detailed breakdowns are available in individual repositories.*
