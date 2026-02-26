@@ -28,6 +28,7 @@ I build **gameplay mechanics**, **AI behaviors**, and **real-time systems** usin
 ![Niagara VFX](https://img.shields.io/badge/Niagara%20VFX-76B900?style=flat-square)
 ![Blueprints](https://img.shields.io/badge/Blueprints-1E90FF?style=flat-square)
 
+![P4](https://img.shields.io/badge/P4-404040?style=flat-square&logo=perforce&logoColor=white)
 ![Perforce](https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
