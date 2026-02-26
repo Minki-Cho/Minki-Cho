@@ -13,6 +13,7 @@ I build **gameplay mechanics**, **AI behaviors**, and **real-time systems** usin
 ## 🛠️ Things I Code With
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MSVC](https://img.shields.io/badge/MSVC-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Gameplay AI](https://img.shields.io/badge/Gameplay%20AI-8A2BE2?style=flat-square)
@@ -38,7 +39,6 @@ I build **gameplay mechanics**, **AI behaviors**, and **real-time systems** usin
 
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=white)
 ![raylib](https://img.shields.io/badge/raylib-000000?style=flat-square)
-
 
 ---
 
@@ -90,4 +90,3 @@ I build **gameplay mechanics**, **AI behaviors**, and **real-time systems** usin
 - 💼 **LinkedIn**: https://www.linkedin.com/in/minki-cho-helloworld/
 
 ---
-
