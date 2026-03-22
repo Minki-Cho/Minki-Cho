@@ -40,6 +40,7 @@ I build **gameplay mechanics**, **AI behaviors**, and **real-time systems** usin
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=white)
 ![raylib](https://img.shields.io/badge/raylib-000000?style=flat-square)
