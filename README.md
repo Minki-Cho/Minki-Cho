@@ -53,6 +53,7 @@ I build **gameplay mechanics**, **AI behaviors**, and **real-time systems** usin
 | **[MSFR](https://github.com/Minki-Cho/MSRF)** | C++, DirectX11, SDL2, MSVC | Custom 2D game framework prototype with DX11 rendering, SDL-driven input/events, state-driven flow (Splash/MainMenu/GamePlay), and player movement/animation state logic. |
 | **[Light Awareness AI Demo](https://github.com/Minki-Cho/LightAwarenessDemo)** | C++, Unreal Engine | Stealth AI prototype where enemies dynamically detect and react to player visibility based on real-time light intensity. Includes custom perception logic, debug visualization, and scalable AI decision flow. |
 | **[Unity Game Project (CS 388)](https://github.com/Minki-Cho/Unity-Game_388)** | Unity, C# | Cross-platform 3D gameplay prototype featuring modular interaction systems, advanced platform mechanics, and performance optimizations for Nintendo Switch. |
+| **[Vinyl Remote (Turn-table Android Application)](https://github.com/Minki-Cho/Turn-table-Android-application)** | Kotlin, Jetpack Compose, Android MediaSession | Turntable-style Android remote controller for Spotify/YouTube Music with draggable tonearm playback control, LRC lyric sync, foldable-optimized layouts, and notification/widget controls. |
 
 
 ---
